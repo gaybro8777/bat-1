@@ -53,7 +53,7 @@ serde_yaml = "0.8"
 semver = "0.9"
 
 [dependencies.git2]
-version = "0.13"
+version = "0.16"
 optional = true
 default-features = false
 
